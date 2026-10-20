@@ -8,7 +8,7 @@ The skill guides agents to understand the product before styling it, select a de
 
 ## Before and after
 
-![The same fictional railway booking product without and with the skill](screenshots/side-by-side.png)
+![The same fictional railway booking product without and with the skill](screenshots/side-by-side.webp)
 
 The same product brief, data, and interactions were used for both intentionally constructed examples. They demonstrate the design approach; they are not a controlled benchmark of separate AI runs.
 
@@ -20,11 +20,11 @@ The same product brief, data, and interactions were used for both intentionally 
 
 **Mobile comparison:**
 
-![Mobile layout comparison](screenshots/mobile-comparison.png)
+![Mobile layout comparison](screenshots/mobile-comparison.webp)
 
 **With-skill detail:**
 
-![Desktop detail of the with-skill example](screenshots/with-skill-desktop.png)
+![Desktop detail of the with-skill example](screenshots/with-skill-desktop.webp)
 
 ## Install in Codex
 
