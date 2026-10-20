@@ -1,0 +1,6 @@
+interface:
+  display_name: "Designed, Not Generated"
+  short_description: "Distinctive UI design and critique"
+  default_prompt: "Use Designed, Not Generated to design a distinctive, usable interface."
+policy:
+  allow_implicit_invocation: true
